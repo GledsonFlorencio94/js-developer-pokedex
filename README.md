@@ -1,2 +1,2 @@
 # js-developer-pokedex
-Pokedex Pokemon API
+Pokedex Pokemon API.
